@@ -1,4 +1,4 @@
-# PTT_Text-Mining
+# Sentiment-analysis_PTT
 **論文名稱**  
 
 偵測憂鬱傾向者情緒狀態：以機器學習分析PTT電子佈告欄文章  
